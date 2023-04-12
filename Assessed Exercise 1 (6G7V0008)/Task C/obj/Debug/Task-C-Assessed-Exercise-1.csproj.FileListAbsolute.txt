@@ -1,0 +1,54 @@
+O:/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Relevant but no Important/Task-C-Assessed-Exercise-1/bin/Debug/Task-C-Assessed-Exercise-1.exe.config
+O:/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Relevant but no Important/Task-C-Assessed-Exercise-1/bin/Debug/Task-C-Assessed-Exercise-1.exe
+O:/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Relevant but no Important/Task-C-Assessed-Exercise-1/bin/Debug/Task-C-Assessed-Exercise-1.pdb
+O:/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Relevant but no Important/Task-C-Assessed-Exercise-1/obj/Debug/Task-C-Assessed-Exercise-1.csproj.AssemblyReference.cache
+O:/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Relevant but no Important/Task-C-Assessed-Exercise-1/obj/Debug/Task-C-Assessed-Exercise-1.csproj.SuggestedBindingRedirects.cache
+O:/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Relevant but no Important/Task-C-Assessed-Exercise-1/obj/Debug/Task_C_Assessed_Exercise_1.Form1.resources
+O:/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Relevant but no Important/Task-C-Assessed-Exercise-1/obj/Debug/Task_C_Assessed_Exercise_1.Properties.Resources.resources
+O:/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Relevant but no Important/Task-C-Assessed-Exercise-1/obj/Debug/Task-C-Assessed-Exercise-1.csproj.GenerateResource.cache
+O:/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Relevant but no Important/Task-C-Assessed-Exercise-1/obj/Debug/Task-C-Assessed-Exercise-1.csproj.CoreCompileInputs.cache
+O:/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Relevant but no Important/Task-C-Assessed-Exercise-1/obj/Debug/Task-C-Assessed-Exercise-1.exe
+O:/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Relevant but no Important/Task-C-Assessed-Exercise-1/obj/Debug/Task-C-Assessed-Exercise-1.pdb
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task-C-Assessed-Exercise-1/bin/Debug/Task-C-Assessed-Exercise-1.exe.config
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task-C-Assessed-Exercise-1/bin/Debug/Task-C-Assessed-Exercise-1.exe
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task-C-Assessed-Exercise-1/bin/Debug/Task-C-Assessed-Exercise-1.pdb
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task-C-Assessed-Exercise-1/obj/Debug/Task-C-Assessed-Exercise-1.csproj.AssemblyReference.cache
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task-C-Assessed-Exercise-1/obj/Debug/Task_C_Assessed_Exercise_1.Form1.resources
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task-C-Assessed-Exercise-1/obj/Debug/Task_C_Assessed_Exercise_1.Properties.Resources.resources
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task-C-Assessed-Exercise-1/obj/Debug/Task-C-Assessed-Exercise-1.csproj.GenerateResource.cache
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task-C-Assessed-Exercise-1/obj/Debug/Task-C-Assessed-Exercise-1.csproj.CoreCompileInputs.cache
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task-C-Assessed-Exercise-1/obj/Debug/Task-C-Assessed-Exercise-1.exe
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task-C-Assessed-Exercise-1/obj/Debug/Task-C-Assessed-Exercise-1.pdb
+O:\Second-Year Computer Science\Algorithms and Data Structures (6G5Z0024_2223_9)\IMPORTANT\Assessed Exercise 1 (6G7V0008)\Task-C-Assessed-Exercise-1\bin\Debug\Task-C-Assessed-Exercise-1.exe.config
+O:\Second-Year Computer Science\Algorithms and Data Structures (6G5Z0024_2223_9)\IMPORTANT\Assessed Exercise 1 (6G7V0008)\Task-C-Assessed-Exercise-1\bin\Debug\Task-C-Assessed-Exercise-1.exe
+O:\Second-Year Computer Science\Algorithms and Data Structures (6G5Z0024_2223_9)\IMPORTANT\Assessed Exercise 1 (6G7V0008)\Task-C-Assessed-Exercise-1\bin\Debug\Task-C-Assessed-Exercise-1.pdb
+O:\Second-Year Computer Science\Algorithms and Data Structures (6G5Z0024_2223_9)\IMPORTANT\Assessed Exercise 1 (6G7V0008)\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.csproj.AssemblyReference.cache
+O:\Second-Year Computer Science\Algorithms and Data Structures (6G5Z0024_2223_9)\IMPORTANT\Assessed Exercise 1 (6G7V0008)\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.csproj.SuggestedBindingRedirects.cache
+O:\Second-Year Computer Science\Algorithms and Data Structures (6G5Z0024_2223_9)\IMPORTANT\Assessed Exercise 1 (6G7V0008)\Task-C-Assessed-Exercise-1\obj\Debug\Task_C_Assessed_Exercise_1.Form1.resources
+O:\Second-Year Computer Science\Algorithms and Data Structures (6G5Z0024_2223_9)\IMPORTANT\Assessed Exercise 1 (6G7V0008)\Task-C-Assessed-Exercise-1\obj\Debug\Task_C_Assessed_Exercise_1.Properties.Resources.resources
+O:\Second-Year Computer Science\Algorithms and Data Structures (6G5Z0024_2223_9)\IMPORTANT\Assessed Exercise 1 (6G7V0008)\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.csproj.GenerateResource.cache
+O:\Second-Year Computer Science\Algorithms and Data Structures (6G5Z0024_2223_9)\IMPORTANT\Assessed Exercise 1 (6G7V0008)\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.csproj.CoreCompileInputs.cache
+O:\Second-Year Computer Science\Algorithms and Data Structures (6G5Z0024_2223_9)\IMPORTANT\Assessed Exercise 1 (6G7V0008)\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.exe
+O:\Second-Year Computer Science\Algorithms and Data Structures (6G5Z0024_2223_9)\IMPORTANT\Assessed Exercise 1 (6G7V0008)\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.pdb
+C:\Users\Seikou Bah Karagera\Desktop\Task-C-Assessed-Exercise-1\bin\Debug\Task-C-Assessed-Exercise-1.exe.config
+C:\Users\Seikou Bah Karagera\Desktop\Task-C-Assessed-Exercise-1\bin\Debug\Task-C-Assessed-Exercise-1.exe
+C:\Users\Seikou Bah Karagera\Desktop\Task-C-Assessed-Exercise-1\bin\Debug\Task-C-Assessed-Exercise-1.pdb
+C:\Users\Seikou Bah Karagera\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.csproj.AssemblyReference.cache
+C:\Users\Seikou Bah Karagera\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seikou Bah Karagera\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task_C_Assessed_Exercise_1.Form1.resources
+C:\Users\Seikou Bah Karagera\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task_C_Assessed_Exercise_1.Properties.Resources.resources
+C:\Users\Seikou Bah Karagera\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.csproj.GenerateResource.cache
+C:\Users\Seikou Bah Karagera\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.csproj.CoreCompileInputs.cache
+C:\Users\Seikou Bah Karagera\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.exe
+C:\Users\Seikou Bah Karagera\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.pdb
+C:\Users\Seikou Bah Karagera\Desktop\Desktop\Task-C-Assessed-Exercise-1\bin\Debug\Task-C-Assessed-Exercise-1.exe.config
+C:\Users\Seikou Bah Karagera\Desktop\Desktop\Task-C-Assessed-Exercise-1\bin\Debug\Task-C-Assessed-Exercise-1.exe
+C:\Users\Seikou Bah Karagera\Desktop\Desktop\Task-C-Assessed-Exercise-1\bin\Debug\Task-C-Assessed-Exercise-1.pdb
+C:\Users\Seikou Bah Karagera\Desktop\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.csproj.AssemblyReference.cache
+C:\Users\Seikou Bah Karagera\Desktop\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seikou Bah Karagera\Desktop\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task_C_Assessed_Exercise_1.Form1.resources
+C:\Users\Seikou Bah Karagera\Desktop\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task_C_Assessed_Exercise_1.Properties.Resources.resources
+C:\Users\Seikou Bah Karagera\Desktop\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.csproj.GenerateResource.cache
+C:\Users\Seikou Bah Karagera\Desktop\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.csproj.CoreCompileInputs.cache
+C:\Users\Seikou Bah Karagera\Desktop\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.exe
+C:\Users\Seikou Bah Karagera\Desktop\Desktop\Task-C-Assessed-Exercise-1\obj\Debug\Task-C-Assessed-Exercise-1.pdb

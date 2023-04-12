@@ -1,0 +1,6 @@
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task A and B/bin/Debug/Task A and B.exe
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task A and B/bin/Debug/Task A and B.pdb
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task A and B/obj/Debug/Task A and B.csproj.AssemblyReference.cache
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task A and B/obj/Debug/Task A and B.csproj.CoreCompileInputs.cache
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task A and B/obj/Debug/Task A and B.exe
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/IMPORTANT/Assessed Exercise 1 (6G7V0008)/Task A and B/obj/Debug/Task A and B.pdb
