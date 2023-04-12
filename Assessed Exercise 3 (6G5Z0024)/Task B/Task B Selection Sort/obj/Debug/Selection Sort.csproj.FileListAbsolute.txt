@@ -1,0 +1,6 @@
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Selection Sort/Selection Sort/bin/Debug/Selection_Sort.exe
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Selection Sort/Selection Sort/bin/Debug/Selection_Sort.pdb
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Selection Sort/Selection Sort/obj/Debug/Selection Sort.csproj.AssemblyReference.cache
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Selection Sort/Selection Sort/obj/Debug/Selection Sort.csproj.CoreCompileInputs.cache
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Selection Sort/Selection Sort/obj/Debug/Selection_Sort.exe
+/Users/seikoubahkaragera/Library/CloudStorage/OneDrive-MMU/Second-Year Computer Science/Algorithms and Data Structures (6G5Z0024_2223_9)/Selection Sort/Selection Sort/obj/Debug/Selection_Sort.pdb

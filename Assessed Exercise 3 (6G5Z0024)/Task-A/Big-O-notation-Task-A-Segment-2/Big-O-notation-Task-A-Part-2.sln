@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Big-O-notation-Task-A-Part-2", "Big-O-notation-Task-A-Part-2\Big-O-notation-Task-A-Part-2.csproj", "{F5580F47-3946-4B5C-AE21-4482C662B13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5580F47-3946-4B5C-AE21-4482C662B13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5580F47-3946-4B5C-AE21-4482C662B13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5580F47-3946-4B5C-AE21-4482C662B13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5580F47-3946-4B5C-AE21-4482C662B13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

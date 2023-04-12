@@ -1,0 +1,73 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Oblique;}
+{\colortbl;\red255\green255\blue255;\red90\green127\blue230;\red29\green29\blue29;\red197\green197\blue197;
+\red175\green175\blue175;\red54\green29\blue80;\red51\green197\blue124;\red188\green145\blue90;\red116\green187\blue89;
+\red230\green125\blue179;}
+{\*\expandedcolortbl;;\csgenericrgb\c35294\c49804\c90196;\csgenericrgb\c11373\c11373\c11373;\csgenericrgb\c77255\c77255\c77255;
+\csgenericrgb\c68627\c68627\c68627;\csgenericrgb\c21176\c11373\c31373;\csgenericrgb\c20000\c77255\c48627;\csgenericrgb\c73725\c56863\c35294;\csgenericrgb\c45490\c73333\c34902;
+\csgenericrgb\c90196\c49020\c70196;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs26 \cf2 \cb3 using \cf4 System\cf5 ;\
+\
+\cf2 namespace \cf4 Big_O_notation\
+\cf5 \cb6 \{\cb3 \
+    \cf2 class \cf4 Program\
+    \cf5 \{\
+        \cf2 public static void \cf7 Main\cf5 (\cf2 string\cf5 [] args)\
+        \{\
+            \cf4 Console\cf5 .\cf4 WriteLine\cf5 (\cf8 "please input n"\cf5 ); 
+\f1\i \cf9 // O(1) - Constant time complexity will always take same amount of time to be executed. \
+            
+\f0\i0 \cf2 int \cf5 n = \cf4 Convert\cf5 .\cf4 ToInt32\cf5 (\cf4 Console\cf5 .\cf4 ReadLine\cf5 ());  
+\f1\i \cf9 // O(1) - Constant time complexity, it will ask the user to input a number once.\
+            \
+            
+\f0\i0 \cf2 int \cf5 r = \cf10 20\cf5 ; 
+\f1\i \cf9 // O(1) - Constant time complexity will always take same amount of time to be executed. \
+            
+\f0\i0 \cf2 int \cf5 dummy = \cf10 0\cf5 ; 
+\f1\i \cf9 // O(1) - Constant time complexity.\
+\
+            
+\f0\i0 \cf4 Console\cf5 .\cf4 WriteLine\cf5 (\cf8 "Creating a nested loop"\cf5 ); 
+\f1\i \cf9 //O(1) - Constant time complexity, it will only output once in each program execution. \
+\
+            
+\f0\i0 \cf2 for \cf5 (\cf2 int \cf5 i = \cf10 0\cf5 ; i < n; i++) 
+\f1\i \cf9 //Outer loop [n+1] || this loop will loop n times, and every time it loops n will increase by one\
+            // also i will increase by one as longest n keeps increasing.\
+            
+\f0\i0 \cf5 \{\
+                \cf4 Console\cf5 .\cf4 WriteLine\cf5 (\cf8 "Inside the first loop"\cf5 ); 
+\f1\i \cf9 //O(n) - each time the first for loop loops it will print \
+                //this statement.\
+\
+                
+\f0\i0 \cf5 dummy++; 
+\f1\i \cf9 // n, dummy will increase by one each n loop.\
+\
+                
+\f0\i0 \cf2 for \cf5 (\cf2 int \cf5 j = \cf10 0\cf5 ; j < n; j++) 
+\f1\i \cf9 //Inner loop n(n+1), this second for loop will increase by one each inner loop after the outer loop.\
+                
+\f0\i0 \cf5 \{\
+\
+                    r = r + dummy; 
+\f1\i \cf9 //n*n, r is a constant which means that it doesn't change it will be 20 always, dummy will be \
+                    //loped n times and it will increase each time by one.\
+                    
+\f0\i0 \cf4 Console\cf5 .\cf4 WriteLine\cf5 (\cf8 "Inside the second loop " \cf5 + r); 
+\f1\i \cf9 //n*n - Constant time complexity\
+\
+                  //The Big O notation for this algorithm is: Big O = O(n2)\
+                
+\f0\i0 \cf5 \}\
+\
+            \} \
+\
+        \}\
+    \}\
+\cb6 \}\
+}
