@@ -1,4 +1,4 @@
-#Algorithms and Data Structures
+# Algorithms and Data Structures
 
 I loved learning about algorithms and data structures in this unit. It was amazing to see how these fundamental concepts can be used to solve complex problems in the real world.
 
@@ -10,4 +10,4 @@ By including these videos, I was able to showcase my ability to communicate comp
 
 By the end of the unit, I had a solid understanding of how algorithms and data structures can be used to solve problems. I feel well-equipped to tackle more complex challenges in the field of data science and machine learning. Overall, this unit was a valuable learning experience, and I'm excited to continue using my knowledge in my future studies and career.
 
-#Grade archived in the unit: 88%
+# Grade archived in the unit: 88%
